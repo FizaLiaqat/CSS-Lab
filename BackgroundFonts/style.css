@@ -1,0 +1,25 @@
+
+
+.p1{
+    font-size: 24px;
+    font-family: 'Pacifico', cursive;
+}
+h1{
+    font-family: 'Abril Fatface', cursive;
+}
+.box{
+    width: 900px;
+    height: 600px;
+    border: 10px solid black;
+    margin: 0px auto;
+    background-image: url('../../pic/danny.jpg');
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+    color:blueviolet;
+    padding: 30px;
+    box-sizing: border-box;
+    text-align: justify;
+    overflow: auto;
+    background-attachment: fixed;
+}

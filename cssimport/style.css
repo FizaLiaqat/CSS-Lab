@@ -1,0 +1,15 @@
+@import url('./header.css');
+@import './navbar.css';
+@import url('./body.css');
+@import './footer.css';
+.main {
+    width: 900px;
+    height: auto;
+    background-color: black;
+    margin: 0px auto;
+}
+
+
+
+
+

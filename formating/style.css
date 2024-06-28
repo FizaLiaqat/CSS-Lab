@@ -1,0 +1,27 @@
+.p2{
+    font-size: 24px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-weight:bold; 
+    font-style: italic; 
+    text-align:justify; 
+    text-decoration: underline green 5px; 
+    text-transform: capitalize; 
+    color:lightblue; 
+    background-color: rgb(200, 13, 150); 
+    line-height: 50px; 
+    word-spacing: 20px;
+  }
+
+  #para{
+    font-size: 24px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-weight:bold; 
+    font-style: italic; 
+    text-align:justify; 
+    text-decoration: underline green 5px; 
+    text-transform: capitalize; 
+    color:lightblue; 
+    background-color: rgb(84, 170, 103); 
+    line-height: 50px; 
+    word-spacing: 20px;
+  }
